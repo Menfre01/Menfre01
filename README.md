@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://github.com/Menfre01/waveloom/releases/latest"><img src="https://img.shields.io/github/v/release/Menfre01/waveloom?style=flat-square&color=00ADD8&labelColor=161b22" alt="release"/></a>
-  <a href="https://github.com/Menfre01/waveloom/actions/workflows/ci.yml"><img src="https://github.com/Menfre01/waveloom/actions/workflows/ci.yml/badge.svg?style=flat-square&labelColor=161b22" alt="CI"/></a>
   <a href="https://go.dev"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=161b22" alt="Go"/></a>
+  <a href="https://github.com/Menfre01/waveloom/stargazers"><img src="https://img.shields.io/github/stars/Menfre01/waveloom?style=flat-square&color=yellow&labelColor=161b22" alt="stars"/></a>
+  <a href="https://github.com/Menfre01/waveloom/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-8b949e?style=flat-square&labelColor=161b22" alt="license"/></a>
 </p>
 
 ## 👋 你好，我是 Menfre
